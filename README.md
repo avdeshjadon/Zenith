@@ -17,8 +17,6 @@ It combines **HTML, CSS, JavaScript (ES6+)** for a responsive and animated front
   - Top expenses  
   - Top categories  
   - Monthly average spending
-- **Fraud Detection** – Automatic pattern matching to detect duplicate or unusually large expenses.
-- **Undo Transactions** – Roll back your most recent changes instantly.
 - **Responsive Web Design** – Works across desktops, tablets, and mobile devices.
 - **Dynamic Notifications** – Success, error, and warning messages in real-time.
 
