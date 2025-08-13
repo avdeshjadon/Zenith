@@ -1,7 +1,7 @@
-# 💰 Personal Finance Manager
+# 💰 Zenith | AI-Powered Finance Tracker
 
 ## 📌 Overview
-The **Personal Finance Manager** is a modern, web-based application designed to help individuals **track income and expenses, manage budgets, analyze spending patterns, and detect suspicious activities** in their financial transactions.  
+The **Zenith | AI-Powered Finance Tracker** is a modern, web-based application designed to help individuals **track income and expenses, manage budgets, analyze spending patterns, and detect suspicious activities** in their financial transactions.  
 
 It combines **HTML, CSS, JavaScript (ES6+)** for a responsive and animated frontend with efficient **C++ backend logic** using advanced data structures and algorithms, ensuring **real-time updates**, scalability, and accuracy.
 
