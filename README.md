@@ -33,11 +33,6 @@ It combines **HTML, CSS, JavaScript (ES6+)** for a responsive and animated front
 
 **Backend Logic**
 - C++ for computation-heavy operations
-
-**Libraries**
-- [Font Awesome](https://fontawesome.com/) for icons
-- Modern CSS transitions and animations
-
 ---
 
 ## 🔍 Data Structures & Algorithms Used
